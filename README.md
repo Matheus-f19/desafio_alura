@@ -46,7 +46,7 @@ cd amigo-secreto
 ### 📌 app.js (Lógica do sorteio)
 * adicionarAmigo() → Adiciona um amigo à lista, impedindo nomes duplicados
 * exibirAmigos() → Atualiza a lista exibida na tela
-* sortearAmigo() → Sorteia um amigo aleatoriamente e exibe o resultado
+- **`sortearAmigo()`** → Sorteia um amigo aleatoriamente e exibe o resultado
 ```javascript
 function sortearAmigo() {
     if (amigos.length < 2) {
