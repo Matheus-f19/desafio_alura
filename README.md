@@ -33,7 +33,7 @@ git clone https://github.com/seu-usuario/amigo-secreto.git
 ```sh
 cd amigo-secreto
 ```
-### Abra o arquivo index.html em um navegador
+3. Abra o arquivo index.html em um navegador
 
 
 ## 🎮 Como Usar
