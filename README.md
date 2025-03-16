@@ -4,7 +4,7 @@
 #### Um simples aplicativo web para realizar sorteios de amigo secreto, onde os participantes podem ser adicionados a uma lista e um nome é sorteado aleatoriamente.
 
 ## 🚀 Tecnologias Utilizadas
-- HTML5 → Estrutura da página
+- **HTML5** → Estrutura da página
 - CSS3 → Estilização do layout
 - JavaScript → Lógica de adição e sorteio dos amigos
 
@@ -33,7 +33,7 @@ git clone https://github.com/seu-usuario/amigo-secreto.git
 ```sh
 cd amigo-secreto
 ```
-* Abra o arquivo index.html em um navegador
+* Abra o arquivo **`index.html`** em um navegador
 
 
 ## 🎮 Como Usar
@@ -44,9 +44,10 @@ cd amigo-secreto
 
 ## 🖥️ Código Explicado
 ### 📌 app.js (Lógica do sorteio)
-* adicionarAmigo() → Adiciona um amigo à lista, impedindo nomes duplicados
-* exibirAmigos() → Atualiza a lista exibida na tela
+- **`adicionarAmigo()`** → Adiciona um amigo à lista, impedindo nomes duplicados
+- **`exibirAmigos()`** → Atualiza a lista exibida na tela
 - **`sortearAmigo()`** → Sorteia um amigo aleatoriamente e exibe o resultado
+
 ```javascript
 function sortearAmigo() {
     if (amigos.length < 2) {
