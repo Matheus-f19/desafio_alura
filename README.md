@@ -37,8 +37,8 @@ Editar
 cd amigo-secreto
 Abra o arquivo index.html em um navegador
 ## 🎮 Como Usar
-1️. Digite um nome no campo de entrada
-2️. Clique no botão "Adicionar" para incluir na lista
+1️⃣ Digite um nome no campo de entrada
+2️⃣ Clique no botão "Adicionar" para incluir na lista
 3️⃣ Após adicionar pelo menos dois amigos, clique em "Sortear amigo"
 4️⃣ O nome do amigo sorteado será exibido na tela
 
