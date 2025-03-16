@@ -7,12 +7,12 @@ Um simples aplicativo web para realizar sorteios de amigo secreto, onde os parti
 HTML5 → Estrutura da página
 CSS3 → Estilização do layout
 JavaScript → Lógica de adição e sorteio dos amigos
+
 📌 Funcionalidades
 ✅ Adicionar amigos à lista
-✅ Impedir a adição de nomes duplicados
-✅ Exibir os amigos adicionados
-✅ Sortear um único amigo aleatoriamente
-✅ Exibir o resultado do sorteio
+✅ Evitar nomes duplicados
+✅ Sortear um amigo aleatoriamente
+✅ Interface amigável
 
 📂 Estrutura do Projeto
 bash
