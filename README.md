@@ -26,15 +26,13 @@ Um simples aplicativo web para realizar sorteios de amigo secreto, onde os parti
 
 ## ⚡ Como Executar
 ### Clone o repositório
-sh
-Copiar
-Editar
+```sh
 git clone https://github.com/seu-usuario/amigo-secreto.git
+```
 ### Acesse a pasta do projeto
-sh
-Copiar
-Editar
+```sh
 cd amigo-secreto
+```
 ### Abra o arquivo index.html em um navegador
 
 
