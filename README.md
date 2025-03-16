@@ -8,7 +8,7 @@ HTML5 → Estrutura da página
 CSS3 → Estilização do layout
 JavaScript → Lógica de adição e sorteio dos amigos
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 ✅ Adicionar amigos à lista
 ✅ Evitar nomes duplicados
 ✅ Sortear um amigo aleatoriamente
