@@ -43,10 +43,10 @@ cd amigo-secreto
 * 4️⃣ O nome do amigo sorteado será exibido na tela.
 
 ## 🖥️ Código Explicado
-📌 app.js (Lógica do sorteio)
-adicionarAmigo() → Adiciona um amigo à lista, impedindo nomes duplicados
-exibirAmigos() → Atualiza a lista exibida na tela
-sortearAmigo() → Sorteia um amigo aleatoriamente e exibe o resultado
+### 📌 app.js (Lógica do sorteio)
+* adicionarAmigo() → Adiciona um amigo à lista, impedindo nomes duplicados
+* exibirAmigos() → Atualiza a lista exibida na tela
+* sortearAmigo() → Sorteia um amigo aleatoriamente e exibe o resultado
 javascript
 Copiar
 Editar
