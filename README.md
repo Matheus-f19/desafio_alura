@@ -47,6 +47,7 @@ cd amigo-secreto
 * adicionarAmigo() → Adiciona um amigo à lista, impedindo nomes duplicados
 * exibirAmigos() → Atualiza a lista exibida na tela
 * sortearAmigo() → Sorteia um amigo aleatoriamente e exibe o resultado
+```javascript
 javascript
 Copiar
 Editar
@@ -66,6 +67,7 @@ function sortearAmigo() {
     li.textContent = `Amigo secreto: ${amigoSorteado}`;
     resultado.appendChild(li);
 }
+```
 📌 index.html (Estrutura da página)
 Contém um campo de entrada para nomes
 Lista dinâmica de amigos adicionados
