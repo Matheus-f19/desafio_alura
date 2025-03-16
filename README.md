@@ -78,8 +78,8 @@ Editar
 <ul id="listaAmigos"></ul>
 <button onclick="sortearAmigo()">Sortear amigo</button>
 <ul id="resultado"></ul>
-📜 Licença
-Este projeto é de código aberto e pode ser utilizado livremente.
 
-📌 Desenvolvido por Seu Nome 🚀
+📜 Licença
+Este projeto é livre para uso e modificação.
+
 
