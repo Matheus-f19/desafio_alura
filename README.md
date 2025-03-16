@@ -22,6 +22,7 @@ Um simples aplicativo web para realizar sorteios de amigo secreto, onde os parti
 │── style.css       # Estilos da aplicação
 │── assets/         # Imagens e ícones
 └── README.md       # Documentação do projeto
+```
 
 ## ⚡ Como Executar
 Clone o repositório
@@ -35,11 +36,13 @@ Copiar
 Editar
 cd amigo-secreto
 Abra o arquivo index.html em um navegador
+
+
 ## 🎮 Como Usar
-1️⃣ Digite um nome no campo de entrada
-2️⃣ Clique no botão "Adicionar" para incluir na lista
-3️⃣ Após adicionar pelo menos dois amigos, clique em "Sortear amigo"
-4️⃣ O nome do amigo sorteado será exibido na tela
+* 1️⃣ Digite um nome no campo de entrada.
+* 2️⃣ Clique no botão "Adicionar" para incluir na lista.
+* 3️⃣ Após adicionar pelo menos dois amigos, clique em "Sortear amigo".
+* 4️⃣ O nome do amigo sorteado será exibido na tela.
 
 ## 🖥️ Código Explicado
 📌 app.js (Lógica do sorteio)
