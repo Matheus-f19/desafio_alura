@@ -25,15 +25,15 @@
 ```
 
 ## ⚡ Como Executar
-### Clone o repositório
+* Clone o repositório
 ```sh
 git clone https://github.com/seu-usuario/amigo-secreto.git
 ```
-### Acesse a pasta do projeto
+* Acesse a pasta do projeto
 ```sh
 cd amigo-secreto
 ```
-3. Abra o arquivo index.html em um navegador
+* Abra o arquivo index.html em um navegador
 
 
 ## 🎮 Como Usar
