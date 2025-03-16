@@ -5,8 +5,8 @@
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** → Estrutura da página
-- CSS3 → Estilização do layout
-- JavaScript → Lógica de adição e sorteio dos amigos
+- **CSS3** → Estilização do layout
+- **JavaScript** → Lógica de adição e sorteio dos amigos
 
 ## 📌 Funcionalidades
 * ✅ Adicionar amigos à lista
