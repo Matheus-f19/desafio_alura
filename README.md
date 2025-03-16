@@ -48,9 +48,6 @@ cd amigo-secreto
 * exibirAmigos() → Atualiza a lista exibida na tela
 * sortearAmigo() → Sorteia um amigo aleatoriamente e exibe o resultado
 ```javascript
-javascript
-Copiar
-Editar
 function sortearAmigo() {
     if (amigos.length < 2) {
         alert("Adicione pelo menos dois amigos para realizar o sorteio.");
@@ -68,19 +65,17 @@ function sortearAmigo() {
     resultado.appendChild(li);
 }
 ```
-📌 index.html (Estrutura da página)
-Contém um campo de entrada para nomes
-Lista dinâmica de amigos adicionados
-Botão para sortear um amigo aleatoriamente
-html
-Copiar
-Editar
+### 📌 index.html (Estrutura da página)
+* Contém um campo de entrada para nomes
+* Lista dinâmica de amigos adicionados
+* Botão para sortear um amigo aleatoriamente
+```html
 <input type="text" id="amigo" class="input-name" placeholder="Digite um nome">
 <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
 <ul id="listaAmigos"></ul>
 <button onclick="sortearAmigo()">Sortear amigo</button>
 <ul id="resultado"></ul>
-
+```
 ## 📜 Licença
 Este projeto é livre para uso e modificação.
 
