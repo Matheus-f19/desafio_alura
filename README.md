@@ -27,11 +27,11 @@
 ## ⚡ Como Executar
 * Clone o repositório
 ```sh
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Matheus-f19/desafio_alura.git
 ```
 * Acesse a pasta do projeto
 ```sh
-cd amigo-secreto
+cd desafio_alura
 ```
 * Abra o arquivo **`index.html`** em um navegador
 
