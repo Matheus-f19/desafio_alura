@@ -21,7 +21,8 @@ Um simples aplicativo web para realizar sorteios de amigo secreto, onde os parti
 │── app.js          # Lógica do sorteio e manipulação da lista
 │── style.css       # Estilos da aplicação
 │── assets/         # Imagens e ícones
-└── README.md       # Documentação do projeto```
+└── README.md       # Documentação do projeto
+
 ## ⚡ Como Executar
 Clone o repositório
 sh
