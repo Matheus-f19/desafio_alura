@@ -1,12 +1,12 @@
 
-🎁 Amigo Secreto
+#🎁 Amigo Secreto
 ![Tela Inicial](assets/image.png)
 Um simples aplicativo web para realizar sorteios de amigo secreto, onde os participantes podem ser adicionados a uma lista e um nome é sorteado aleatoriamente.
 
 ##🚀 Tecnologias Utilizadas
-HTML5 → Estrutura da página
-CSS3 → Estilização do layout
-JavaScript → Lógica de adição e sorteio dos amigos
+- HTML5 → Estrutura da página
+- CSS3 → Estilização do layout
+- JavaScript → Lógica de adição e sorteio dos amigos
 
 ## 📌 Funcionalidades
 ✅ Adicionar amigos à lista
