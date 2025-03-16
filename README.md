@@ -43,7 +43,7 @@ cd desafio_alura
 * 4️⃣ O nome do amigo sorteado será exibido na tela.
 
 ## 🖥️ Código Explicado
-### 📌 app.js (Lógica do sorteio)
+### 📌 app.js
 - **`adicionarAmigo()`** → Adiciona um amigo à lista, impedindo nomes duplicados
 - **`exibirAmigos()`** → Atualiza a lista exibida na tela
 - **`sortearAmigo()`** → Sorteia um amigo aleatoriamente e exibe o resultado
@@ -66,7 +66,8 @@ function sortearAmigo() {
     resultado.appendChild(li);
 }
 ```
-### 📌 index.html (Estrutura da página)
+
+### 📌 index.html
 * Contém um campo de entrada para nomes
 * Lista dinâmica de amigos adicionados
 * Botão para sortear um amigo aleatoriamente
@@ -77,6 +78,7 @@ function sortearAmigo() {
 <button onclick="sortearAmigo()">Sortear amigo</button>
 <ul id="resultado"></ul>
 ```
+
 ## 📜 Licença
 Este projeto é livre para uso e modificação.
 
