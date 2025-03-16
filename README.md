@@ -9,9 +9,9 @@ Um simples aplicativo web para realizar sorteios de amigo secreto, onde os parti
 - JavaScript → Lógica de adição e sorteio dos amigos
 
 ## 📌 Funcionalidades
-- ✅ Adicionar amigos à lista
+* ✅ Adicionar amigos à lista
 * ✅ Evitar nomes duplicados
-- ✅ Sortear um amigo aleatoriamente
+* ✅ Sortear um amigo aleatoriamente
 * ✅ Interface amigável
 
 ## 📂 Estrutura do Projeto
